@@ -11,6 +11,10 @@ A comprehensive security operations platform that integrates multiple security t
 - **Error Handling**: Robust error handling and reporting
 - **Extensible**: Easy to add new tools and functionality
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/securityfortech-secops-mcp).
+
 ## Included Tools
 
 - **Nuclei**: Fast and customizable vulnerability scanner
